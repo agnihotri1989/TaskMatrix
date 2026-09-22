@@ -17,7 +17,7 @@
 <div align="center">
   <!-- Replace DEMO_VIDEO_LINK_HERE with your YouTube / Google Drive / Loom video link, or replace the img src with your asset / GIF -->
   <a href="DEMO_VIDEO_LINK_HERE">
-    <img src="assets/TaskMatrixDemo.mp4" alt="TaskMatrix Demo Walkthrough" width="85%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.25);" />
+    <img src="assets/TaskMatrixDemo.gif" alt="TaskMatrix Demo Walkthrough" width="85%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.25);" />
   </a>
   <p><em>🎥 Click above or embed your recorded demo video / GIF to showcase TaskMatrix in action across Android Emulator & iOS Simulator.</em></p>
 </div>
